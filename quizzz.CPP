@@ -267,7 +267,7 @@ int main()
 
 	case 3:
 	int reply;
-	    cout<<"\n\n Are Sure you want to exit quiz ? Y/N  :";
+	    cout<<"\n\n Are Sure you want to exit  quiz ? Y/N  :";
 	    cin>>reply;
 	    if(reply=='Y')
 	    {
